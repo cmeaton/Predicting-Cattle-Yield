@@ -82,7 +82,7 @@ To properly build an accurate model, I used cross validation with my training da
 
 **Regularization**
 
-Features with coefficents zeroed by my model were eliminated. Features with coefficents close to 0 were removed one by one too see how simple I get the model to be without losing efficacy. The final model had the following features: *cattle_head, soy_area_ha, soy_area_hg/ha, harvest_number,corn_area_ha, corn_hg/ha, urban_pop_e+01, GDP_e+05, supply_g/capita, 'China, and Brazil*.
+Features with coefficents zeroed by my model were eliminated. Features with coefficents close to 0 were removed one by one too see how simple I get the model to be without losing efficacy. The final model had the following features: *cattle_head, soy_area_ha, soy_area_hg/ha, harvest_number,corn_area_ha, corn_hg/ha, urban_pop_e+01, GDP_e+05, supply_g/capita, and China*.
 
 **Final Model**
 
